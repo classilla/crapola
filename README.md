@@ -1,2 +1,2 @@
 # crapola
-Don't push or fork to this or you will die.
+Don't push to or fork this or you will die.
